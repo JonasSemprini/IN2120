@@ -1,2 +1,2 @@
-# IN2120
-IN2120 – Information Security
+<h1 style="center"> IN2120 – Information Security </h1> 
+
