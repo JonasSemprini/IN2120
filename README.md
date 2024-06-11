@@ -1,2 +1,2 @@
-<h1 style="center"> IN2120 – Information Security </h1> 
+<h1 align="center"> IN2120 – Information Security </h1> 
 
